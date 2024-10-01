@@ -1,0 +1,1 @@
+export const delayBetweenRequests = 10 * 1000;

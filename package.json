@@ -1,0 +1,26 @@
+{
+  "name": "mail_autoresponder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/msal-node": "^2.14.0",
+    "@google-cloud/local-auth": "^3.0.1",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "axios": "^1.7.7",
+    "bullmq": "^5.13.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0",
+    "googleapis": "^144.0.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.65.0"
+  }
+}
